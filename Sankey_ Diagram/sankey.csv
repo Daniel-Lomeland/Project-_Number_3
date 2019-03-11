@@ -1,0 +1,18 @@
+source,target,value
+Male,Cats,3
+Female,Cats,3
+Female,Dogs,2
+Male,Dogs,2
+Male,Other,1
+Female,Other,1
+Cats,Transfer,1
+Dogs,Transfer,1
+Other,Transfer,1
+Cats,Adoption,1
+Dogs,Adoption,1
+Other,Adoption,1
+Cats,Euthanasia,1
+Dogs,Euthanasia,1
+Cats,Return to Owner,1
+Dogs,Return to Owner,1
+Cats,Died,2
