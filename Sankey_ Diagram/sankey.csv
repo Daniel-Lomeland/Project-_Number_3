@@ -1,18 +1,26 @@
 source,target,value
-Male,Cats,3
-Female,Cats,3
-Female,Dogs,2
-Male,Dogs,2
-Male,Other,1
-Female,Other,1
-Cats,Transfer,1
-Dogs,Transfer,1
-Other,Transfer,1
-Cats,Adoption,1
-Dogs,Adoption,1
-Other,Adoption,1
-Cats,Euthanasia,1
-Dogs,Euthanasia,1
-Cats,Return to Owner,1
-Dogs,Return to Owner,1
-Cats,Died,2
+Black,Adoption,1604
+Black,Died,56
+Black,Euthanasia,189
+Black,Return to Owner,170
+Black,Transfer,1819
+Black/White,Adoption,1168
+Black/White,Died,49
+Black/White,Euthanasia,166
+Black/White,Return to Owner,132
+Black/White,Transfer,1277
+Brown Tabby,Adoption,1879
+Brown Tabby,Died,58
+Brown Tabby,Euthanasia,217
+Brown Tabby,Return to Owner,183
+Brown Tabby,Transfer,2096
+Brown Tabby/White,Adoption,1079
+Brown Tabby/White,Died,37
+Brown Tabby/White,Euthanasia,100
+Brown Tabby/White,Return to Owner,112
+Brown Tabby/White,Transfer,1004
+Orange Tabby,Adoption,869
+Orange Tabby,Died,20
+Orange Tabby,Euthanasia,111
+Orange Tabby,Return to Owner,128
+Orange Tabby,Transfer,1045
