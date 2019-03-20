@@ -200,11 +200,11 @@ $(document).ready(function () {
             //   animal: "Cat",
             //   count: 23335
             // },
-            // {
-            //   breed: "Siamese Mix",
-            //   animal: "Cat",
-            //   count: 998
-            // },
+            {
+              breed: "Siamese Mix",
+              animal: "Cat",
+              count: 998
+            },
             {
               breed: "Australian Cattle Dog Mix",
               animal: "Dog",
